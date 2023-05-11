@@ -1,0 +1,6 @@
+#1) Ecrire l’équation différentielle du circuit ci-dessus. https://public.iutenligne.net/electronique/arrou-vignod/CircuitRC/mise_en_quation_dun_circuit_rc.html
+#2) Déterminer l’expression de la sortie Vs(t) pour une entrée Ve(t) en échelon d’amplitude E. Ne(t) = E*u(t)= E | Z=Rc | dvc(t)/dt + vc(t) = E
+#3) Substituer à l’équation différentielle une équation aux différences.
+#4) On donne : RC = 1 ms, E = 1V et Te =0,2 ms. Tracer Vs(t) et Vs(nTe) en corrélation à l’aide de MATLAB.
+#5) Te est maintenant égal à 0,01ms. Tracer Vs(nTe). Conclure.
+#6) Utiliser cette équation aux différences par calculer la valeur moyenne d’un signal carré.
